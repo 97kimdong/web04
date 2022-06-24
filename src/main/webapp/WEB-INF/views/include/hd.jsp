@@ -6,7 +6,7 @@
 
 <div class="header_wrap">
     <div class="header_top">
-        <h1>연세디에이지는 환자중심의 진료환경을 지향합니다.</h1>
+        <h1>정발산튼튼척의원은 환자중심의 진료환경을 지향합니다.</h1>
     </div>
     <div class="util_wrap">
     <div class="util_menu">
@@ -29,76 +29,60 @@
     </div>
     </div>
     <div class="header_bottom" >
-        <div class="logo"><a href="${path}"><img src="${path}/resources/img/header_logo.png" alt="로고"></a></div>
+        <div class="logo"><a href="${path}"><img src="${path}/resources/img/header_logo1.png" alt="로고"></a></div>
         <ul>
-            <a href="">메뉴1</a>
+            <a href="${path}/sub1#page1">진료안내</a>
             <div class="submenu_wrap">
                 <div class="submenu">
-                <li><a href="${path}/sub1#page1">메뉴-1</a></li>
-                <li><a href="${path}/sub1#page2">메뉴-2</a></li>
-                <li><a href="${path}/sub1#page3">메뉴-3</a></li>
+                <li><a href="${path}/sub1#page1">병원소개</a></li>
+                <li><a href="">진료시간</a></li>
                 </div>
             </div>
         </ul>
         <ul>
-            <a href="">메뉴2</a>
+            <a href="${path}/sub2#page1">척추클리닉</a>
             <div class="submenu_wrap">
                 <div class="submenu">
-                <li><a href="./sub1.html#page1">메뉴-1</a></li>
-                <li><a href="./sub1.html#page2">메뉴-2</a></li>
-                <li><a href="./sub1.html#page3">메뉴-3</a></li>
+                <li><a href="${path}/sub2#page1">허리디스크</a></li>
+                <li><a href="">목디스크</a></li>
+                <li><a href="">요추관협착증</a></li>
                 </div>
             </div>
         </ul>
         <ul>
-            <a href="">메뉴3</a>
+            <a href="${path}/sub3#page1">관절클리닉</a>
             <div class="submenu_wrap">
                 <div class="submenu">
-                <li><a href="./sub1.html#page1">메뉴-1</a></li>
-                <li><a href="./sub1.html#page2">메뉴-2</a></li>
-                <li><a href="./sub1.html#page3">메뉴-3</a></li>
+                <li><a href="${path}/sub3#page1">퇴행성관절염</a></li>
+                <li><a href="">류마티스관절염</a></li>
+                <li><a href="">통 풍</a></li>
+                <li><a href="">회전근개파열</a></li>
+                <li><a href="">오십견</a></li>
+                <li><a href="">근막동통증후군</a></li>
                 </div>
             </div>
         </ul>
         <ul>
-            <a href="">메뉴4</a>
+            <a href="${path}/sub4#page1">통증클리닉</a>
             <div class="submenu_wrap">
                 <div class="submenu">
-                <li><a href="./sub1.html#page1">메뉴-1</a></li>
-                <li><a href="./sub1.html#page2">메뉴-2</a></li>
-                <li><a href="./sub1.html#page3">메뉴-3</a></li>
+                <li><a href="${path}/sub4#page1">편두통</a></li>
+                <li><a href="">대상포진</a></li>
                 </div>
             </div>
         </ul>
         <ul>
-            <a href="">메뉴5</a>
+            <a href="${path}/sub5#page1">비수술클리닉</a>
             <div class="submenu_wrap">
                 <div class="submenu">
-                <li><a href="./sub1.html#page1">메뉴-1</a></li>
-                <li><a href="./sub1.html#page2">메뉴-2</a></li>
-                <li><a href="./sub1.html#page3">메뉴-3</a></li>
+                <li><a href="${path}/sub5#page1">체외충격파</a></li>
+                <li><a href="">프롤로테라피</a></li>
+                <li><a href="">도수치료</a></li>
                 </div>
             </div>
         </ul>
         <ul>
-            <a href="">메뉴6</a>
-            <div class="submenu_wrap">
-                <div class="submenu">
-                <li><a href="./sub1.html#page1">메뉴-1</a></li>
-                <li><a href="./sub1.html#page2">메뉴-2</a></li>
-                <li><a href="./sub1.html#page3">메뉴-3</a></li>
-                </div>
-            </div>
-        </ul>
-        <ul>
-            <a href="">메뉴7</a>
-            <div class="submenu_wrap">
-                <div class="submenu">
-                <li><a href="./sub1.html#page1">메뉴-1</a></li>
-                <li><a href="./sub1.html#page2">메뉴-2</a></li>
-                <li><a href="./sub1.html#page3">메뉴-3</a></li>
-                </div>
-            </div>
+            <a href="${path }/board/list.do">공지사항</a>
         </ul>
     </div>
 </div>

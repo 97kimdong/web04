@@ -20,7 +20,7 @@
     <meta property="og:description" content="설명">
     <meta property="og:image" content="로고주소">
 
-    <title>글 상세보기</title>
+    <title>글 쓰기</title>
     <script src="https://code.jquery.com/jquery-latest.js"></script>
     <link rel="stylesheet" href="${path}/resources/css/common.css">
     <link rel="stylesheet" href="${path}/resources/css/normalize.css">

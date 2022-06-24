@@ -123,15 +123,14 @@
         <div class="page_warp">
             <div class="visual" style="background:url(.././resources/img/top_visual.jpg);">
                 <div class="tit_box">
-                    <h3>News</h3>
-                    <p>연세디에이지클리닉의 진솔한 이야기와 <br>다양한 소식을 만나보세요</p>
+                    <h3>공지사항</h3>
+                    <p>정발산튼튼척의원의 <br>다양한 소식을 만나보세요</p>
                 </div>
             </div>
             <div class="board">
-                <p class="page_tit">News</p>
+                <p class="page_tit">공지사항</p>
                 <div class="txt_box">
-                    연세디에이지 News게시판 입니다.<br>
-                    수 많은 유명언론에 소개된 연세디에이지클리닉을 확인하실 수 있습니다.
+                   정발산튼튼척의원 공지사항 게시판 입니다.<br>
                 </div>
                 <div class="table_warp">
                     <table>
@@ -166,7 +165,9 @@
                             </tr>
                         </c:forEach>
                         	<tr>
+                        	<c:if test="${sid != null }">
                         		<td><a href="${path }/board/write_form">글 쓰기</a></td>
+                        	</c:if>
                         	</tr>
                         </tbody>
                     </table>

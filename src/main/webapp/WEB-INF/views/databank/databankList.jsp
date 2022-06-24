@@ -19,7 +19,7 @@
 <figure class="sub_visual">
 	<img src="${path1 }/data/bg_sub_top1.jpg" alt="게시판 비주얼">
 </figure>
-<h2 class="page_tit">글 목록</h2>
+<h2 class="page_tit">자료실 목록</h2>
 <div class="table_lst_wrap">
 	<table class="table_lst">
 		<thead>

@@ -21,7 +21,7 @@
     <meta property="og:description" content="설명">
     <meta property="og:image" content="로고주소">
 
-    <title>Document</title>
+    <title>회원가입</title>
     <script src="https://code.jquery.com/jquery-latest.js"></script>
     <script src="https://t1.daumcdn.net/mapjsapi/bundle/postcode/prod/postcode.v2.js"></script>
     <link rel="stylesheet" href="${path}/resources/css/common.css">

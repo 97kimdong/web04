@@ -11,7 +11,7 @@
         </div>
         <div class="ft_bind">
         <div class="footer_bottom">
-            <img src="${path}/resources/img/footer_logo.png" alt="로고">
+            <img src="${path}/resources/img/footer_logo1.png" alt="로고">
         </div>
         <div class="footer_info">
             <nav class="nav1"><a href="#" target="_blank">개인정보정책</a></nav>
@@ -19,30 +19,30 @@
             <div>
                 <span>
                     <strong>주소 : </strong>
-                    "~~~~~~~""
+					경기도 고양시 일산동구 정발산로 38 이스턴시티 4층
                 </span>
                 <span>
                     <strong>E-mail : </strong>
-                    "~~~~~~~~"
+                    kdh@naver.com
                 </span>
                 <br>
                 <span>
                     <strong>사업자등록번호 : </strong>
-                    "~~~~~~~~~"
+                    219-98-22380
                 </span>
                 <span>
                     <strong>대표원장 : </strong>
-                    "~~~~~~~~~"
+					김인기
                 </span>
                 <span>
                     <strong>의료기관명칭 : </strong>
-                    "~~~~~~~~~~"
+					정발산튼튼척의원
                 </span>
                 <span>
                     <strong>전화번호 : </strong>
-                    "~~~~~~~~~~"
+                    031.902.4758
                 </span>
-                <p>COPYRIGHT</p>
+                <p>Copyright© 정발산튼튼척의원 All Rights Reserved</p>
             </div>
             <button type="button" id="top_btn" style="border: 0; cursor: pointer;">
                 <img src="${path}/resources/img/gotop.jpg" alt="버튼">

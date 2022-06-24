@@ -36,4 +36,20 @@ public class HomeController {
 	public String sub1() {
 		return "sub1";
 	}
+	@RequestMapping("sub2")
+	public String sub2() {
+		return "sub2";
+	}
+	@RequestMapping("sub3")
+	public String sub3() {
+		return "sub3";
+	}
+	@RequestMapping("sub4")
+	public String sub4() {
+		return "sub4";
+	}
+	@RequestMapping("sub5")
+	public String sub5() {
+		return "sub5";
+	}
 }

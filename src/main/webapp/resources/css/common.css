@@ -22,7 +22,7 @@ ul {
 }
 
 .header_top {
-    background-image: url("../img/top_banner_bg.jpg");
+    background-image: url(../img/top_banner_bg.jpg);
     height: 60px;
 }
 
@@ -66,6 +66,8 @@ ul {
     width: 1440px;
     margin: 0 auto;
     clear: both;
+    margin-top: 15px;
+    margin-bottom: 70px;
 }
 
 .header_bottom .logo {
@@ -99,8 +101,8 @@ ul {
 .submenu {
     z-index: 999;
     position: absolute;
-    left: -75px;
-    width: 200px;
+    left: -25px;
+    width: 150px;
     border: 1px solid #000;
     border-top: 0;
     background-color: #fff;
@@ -127,7 +129,7 @@ ul {
 
 .main_fade {
     overflow: hidden;
-    height: 1000px;
+    height: 695px;
 }
 
 .fadebox {
@@ -165,7 +167,7 @@ ul {
 .fade_btn_box2 {
     z-index: 998;
     position: absolute;
-    top: 1100px;
+    top: 790px;
     left: 910px;
     float: left;
 }
@@ -256,32 +258,12 @@ ul {
     overflow: hidden;
 }
 
-.sub_btn_box {
-    position: relative;
-    top: 355px;
-    font-size: 50px;
-}
-
-.sub_prev_btn {
-    cursor: pointer;
-    position: relative;
-    left: 325px;
-    font-size: 50px;
-}
-
-.sub_next_btn {
-    cursor: pointer;
-    position: relative;
-    left: 1485px;
-    font-size: 50px;
-}
 
 .main_about {
     clear: both;
     width: 100%;
     color: #FFF;
     text-align: center;
-    background-image: url("../img/main_bg01.jpg");
     margin-top: 100px;
 }
 
